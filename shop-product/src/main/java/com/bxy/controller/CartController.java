@@ -33,6 +33,7 @@ public class CartController {
             }
         }
         session.setAttribute("cart",cart);
+        System.out.println(cart);
     }
 
 }
