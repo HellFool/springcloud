@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-1/eureka-client-1.iml" filepath="$PROJECT_DIR$/eureka-client-1/eureka-client-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-2/eureka-client-2.iml" filepath="$PROJECT_DIR$/eureka-client-2/eureka-client-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-3/eureka-client-3.iml" filepath="$PROJECT_DIR$/eureka-client-3/eureka-client-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign/eureka-feign.iml" filepath="$PROJECT_DIR$/eureka-feign/eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-1/eureka-server-1.iml" filepath="$PROJECT_DIR$/eureka-server-1/eureka-server-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-2/eureka-server-2.iml" filepath="$PROJECT_DIR$/eureka-server-2/eureka-server-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-order/shop-order.iml" filepath="$PROJECT_DIR$/shop-order/shop-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-product/shop-product.iml" filepath="$PROJECT_DIR$/shop-product/shop-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-server/shop-server.iml" filepath="$PROJECT_DIR$/shop-server/shop-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>

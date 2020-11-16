@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server-1/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-1/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-3/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/config/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-server/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-product/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-order/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
