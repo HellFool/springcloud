@@ -37,7 +37,7 @@ public class OrderController {
             Double total = 0.0;
             for (Map.Entry<String, Integer> entry : cart.entrySet()) {
                 String productId = entry.getKey();
-                System.out.println("订单中获取到的商品ID：       "+productId);
+                System.out.println("订单中获取到的商品ID:"+productId);
                 Integer count = cart.get(productId);
                 ProductInfo productInfo = orderFeign.selectById(productId);
                 total+=count*productInfo.getProductPrice();
